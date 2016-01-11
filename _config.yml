@@ -1,0 +1,28 @@
+name: "Vlach's Musikkoffer"
+favicon: null
+layout_spectrum: 0.9096832214854658
+typography_spectrum: 0.4359964174218476
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.087571962736547
+  lightness: 0.2916596361901611
+  saturation: 0.4635410208720714
+  rhythmicContrast: 0.19231391535140574
+purpose: []

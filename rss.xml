@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Vlach's Musikkoffer]]></title>
+        <description><![CDATA[Vlach's Musikkoffer]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Jan 2016 09:27:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Mozart Double Piano Concertos </p>]]></description>
+            <link>undefined1fde183f-09e6-4f78-96c3-fefd278e07cf/index.html</link>
+            <guid isPermaLink="false">1fde183f-09e6-4f78-96c3-fefd278e07cf</guid>
+            <pubDate>Mon, 11 Jan 2016 09:27:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
